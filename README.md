@@ -1,4 +1,4 @@
-typewriter
+personal page
 ==========
 
 A simple and beautiful theme for Jekyll.
