@@ -1,19 +1,48 @@
+---
+layout: compress
+---
+
+<!-- Include Data Base  -->
+{% include liquid/data %}
+
+
+{% if site.maintenance.enable == true %}
+
+  {% include maintenance.html %}
+
+{% else %}
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
+  {% include partials/head.html %}
+<body id="top">
 
-  {% include head.html %}
+  <div class="layout_default layout_default__bg">
 
-    <body>
+    <div class="container layout_default__container">
 
-      <div class="container">
+      <div class="row">
 
-        {% include header.html %}
+          <div class="p-0 col-lg-3 sidebar sidebar__bg">
 
-        {{ content }}
+          {% include partials/sidebar.html %}
+        </div>
+        
+          <div class="pt-4 pt-lg-0 col-lg-9 border-l-dashed border-r-dashed layout_default__content">
 
-        {% include footer.html %}
+          {{ content }}
+        </div>
 
       </div>
 
-    </body>
+    </div>
+
+
+  </div>
+
+  {% include partials/footer.html %}
+  {% include partials/scripts/default.html %}
+</body>
 </html>
+
+{% endif %}
