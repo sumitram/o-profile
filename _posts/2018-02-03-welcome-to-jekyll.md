@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-02-03 10:22:16 -0300
@@ -126,12 +126,7 @@ function fancyAlert(arg) {
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 <br>
-
-
 To use, see:[Jektify - Doc](https://jektify.github.io){:target="_blank"}
-
 {% jektify spotify/track/62qsgMnY4wg8nE5qjyOdWO/dark %}
-
 Goodbye! :wink:
-
 {% endpost #9D9D9D %}
