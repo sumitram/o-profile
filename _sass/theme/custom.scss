@@ -2,7 +2,7 @@
 ––––––––––––––––––––––––––––––––––––––––––––––––––  */
 
 // Colors
-$bg__full: #FFF;
+$bg__full: #fcfcfc;
 $bg__elements: $bg__full;
 $color-text: #000;
 $highlight__bgcolor: #d9d9d9;
@@ -10,11 +10,10 @@ $highlight__bordercolor: #d0d0d0;
 $highlight__color: #373737;
 $layout_postlist__bg: $bg__full;
 $dashed_color: $bg__full;
-$color__links: #4a79df;
+$color__links: #b1333d;
 $sidebar__bg: $bg__full;
 $sidebar__title-color: $color-text;
 $sidebar__img-bg: #FFF;
-$sidebar__img-rounded: "square"; // Options: circle | square
 $blockquote__bg: #f0f0f0;
 $footer__bg: $bg__full;
 $footer__bordertop: 0.1rem solid $bg__full;
@@ -25,11 +24,11 @@ $btn-typing__color: #FFF;
 
 // Fonts
 $font-weight__all-links: bold; 
-$font-size__content: 15px;
-$font-size__sidebar-menu: 15px;
+$font-size__content: 17px;
+$font-size__sidebar-menu: 20px;
 $font-weight__sidebar-menu: bold;
-$font-size__layout_postlist-link: 15px;
-$font-size__layout_resume_content: 15px;
+$font-size__layout_postlist-link: 25px;
+$font-size__layout_resume_content: 17px;
 $font-weight__layout_postlist-link: bold;
 
 
@@ -74,30 +73,3 @@ $gist-function-color: #569CD6;
 $gist-function-name-color: #FFFFFF;
 $gist-string-color: #D69D85;
 $gist-variables-color: #a4c9ef;
-
-// Terminal home (if enabled)
-// $terminal_is_enable: "false"; // true / false DEPRECATED
-$terminal-light-around: #FFF;
-$terminal-text-color: #3bff1a;
-$terminal-link-color: #3BB662;
-$terminal-font-font-weight: 400;
-$terminal-header-bg: #000;
-$terminal-content-bg: #000;
-$terminal-title-color: #FFF;
-
-// Resume
-$badge-resume-bg: #979797;
-$badge-resume-color: #1f1f1f;
-
-// Pagination
-$pagination-text-decoration: underline;
-$pagination-newer-bg: #e0e0e0;
-$pagination-newer-color: #3b80e7;
-$pagination-newer-color-hover: #000; 
-$pagination-counter-bg: #FFF;
-$pagination-counter-color: #353535;
-$pagination-counter-bg-hover: #FFF;
-$pagination-counter-color-hover: #353535;
-$pagination-older-bg: #e0e0e0;
-$pagination-older-color: #3b80e7;
-$pagination-older-color-hover: #000;

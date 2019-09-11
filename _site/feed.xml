@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <!-- Include Data Base  -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>Typing</title>
+    <description>Typing - A Theme for Jekyll</description>
+    <link>https://williamcanin.me/typing-jekyll-template/</link>
+    <atom:link href="https://williamcanin.me/typing-jekyll-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Sep 2019 01:03:15 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2019 01:03:15 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#examples&quot; id=&quot;markdown-toc-examples&quot;&gt;Examples&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#table&quot; id=&quot;markdown-toc-table&quot;&gt;Table&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#list&quot; id=&quot;markdown-toc-list&quot;&gt;List&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#image-responsive-plugin-imager&quot; id=&quot;markdown-toc-image-responsive-plugin-imager&quot;&gt;Image responsive (plugin Imager)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#code-in-one-line---text&quot; id=&quot;markdown-toc-code-in-one-line---text&quot;&gt;Code in one line - Text&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#unlighted-code&quot; id=&quot;markdown-toc-unlighted-code&quot;&gt;Unlighted code&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#gist-code&quot; id=&quot;markdown-toc-gist-code&quot;&gt;Gist code&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Hi! :hand:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.webpagefx.com/tools/emoji-cheat-sheet/&quot; target=&quot;_blank&quot;&gt;Emoji Syntax&lt;/a&gt;&lt;/p&gt; &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt; &lt;p&gt;To add new...</description>
+        <pubDate>Sat, 03 Feb 2018 14:22:16 +0100</pubDate>
+        <link>https://williamcanin.me/typing-jekyll-template/blog/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://williamcanin.me/typing-jekyll-template/blog/welcome-to-jekyll/</guid>
+        
+        <tag>example</tag>
+        
+        <tag>welcome</tag>
+        
+        <tag>jekyll</tag>
+        
+        <tag>typing</tag>
+        
+        <tag>özel-bitcoin-adresi</tag>
+        
+      </item>
+    
+  </channel>
+</rss>

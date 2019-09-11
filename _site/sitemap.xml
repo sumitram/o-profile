@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>https://williamcanin.me/blog/welcome-to-jekyll/</loc>
+      
+        <lastmod>2018-02-03T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://williamcanin.me/projects/</loc>
+        <lastmod>2017-05-04T19:49:30+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+       </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://williamcanin.me/resume/</loc>
+        <lastmod>2017-05-04T19:49:30+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+       </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+</urlset>

@@ -22,8 +22,6 @@
 
 ## Introduction
 
-**NOTE: The Typing Jekyll Template is not compatible with the atomic compilation in Github Pages due to its own plugins feature and some configures that the theme makes available. You need to run the project clone on your machine, compile the site, and then deploy it to the Github pages.**
-
 Its interface is part of the "Keep It Simple" philosophy, precisely to have a high performance in all types of browsers and mobile devices.
 
 You already have a template page for ‘Blog’, ‘Projects’, ‘Search’, ‘Contact’, ‘Tags’ and ‘Resume’, but you can leave as you want, modifying strings.

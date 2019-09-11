@@ -121,8 +121,4 @@ CHANGELOG - Portuguese - Brazil
 ### Adicionando
 - Novo tema para codigos embutidos do Gist.
 
-## [3.0.0] - 2019-03-16
-### Adicionado
-- Design de Terminal na página de "Hello".
-- Novo plugin "jekyll-paginate-v2"  para adição de páginas.
-- Duas fotos no avatar com efeito de Flip.
+## [2.1.7] - Não definido
