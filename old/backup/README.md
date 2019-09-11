@@ -1,2 +1,0 @@
-# o-profile
-webpages

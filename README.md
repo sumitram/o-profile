@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Typing Jekyll Template
 
 ![](https://img.shields.io/github/languages/top/williamcanin/typing-jekyll-template.svg?colorB=blue&style=flat-square) ![](https://img.shields.io/github/commit-activity/y/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/last-commit/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/last-commit/williamcanin/typing-jekyll-template/master.svg?style=flat-square) ![](https://img.shields.io/github/watchers/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/stars/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/forks/williamcanin/typing-jekyll-template.svg?style=flat-square)
@@ -332,12 +331,3 @@ Copyrights: William C. Canin | Copyright © 2017-2018
 * EMail: william.costa.canin@gmail.com    
 * GitHub: [William Canin](http://github.com/williamcanin)
 * Home page: [William Canin](http://williamcanin.github.com)
-=======
-personal page
-==========
-
-A simple and beautiful theme for Jekyll.
-<!---
-![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png) 
---->
->>>>>>> 0de66f1151ce58ed201cac4d98abf3e4718ca3e7
